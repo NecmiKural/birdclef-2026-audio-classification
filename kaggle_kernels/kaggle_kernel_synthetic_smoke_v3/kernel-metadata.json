@@ -1,0 +1,16 @@
+{
+  "id": "necmikural/compx525-a2-synthetic-smoke-v3",
+  "title": "COMPX525 A2 Synthetic Smoke V3",
+  "code_file": "generate_synthetic_audioldm2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+primary_label,common_name,class_name,train_csv_count,val_positive_rows,synth_train_clips,A1_AUC,B1_AUC,delta_B1_minus_A1
+116570,Southern Spectacled Caiman,Reptilia,1,1,9,0.5,0.4352,-0.0648
+516975,Hooded Capuchin,Mammalia,1,1,9,0.5,0.3121,-0.1879
+23150,Central Dwarf Frog,Amphibia,1,1,9,0.5,0.4736,-0.0264
+23724,Waxy Monkey Tree Frog,Amphibia,1,1,9,0.5,0.4582,-0.0418
+209233,Feral Horse,Mammalia,2,0,8,,,
+70711,Cei's White-lipped Frog,Amphibia,2,1,8,0.2994,0.4804,0.181
+24321,Mato Grosso Snouted Tree Frog,Amphibia,2,1,8,0.771,0.3714,-0.3996
+74580,Black-tailed Marmoset,Mammalia,3,1,7,0.9439,0.9886,0.0446
+64898,Yungas de la Paz Poison Frog,Amphibia,3,1,7,0.7151,0.9884,0.2733
+555123,Usina Tree Frog,Amphibia,3,1,7,0.9542,0.9864,0.0322
+476521,Cuyaba Dwarf Frog,Amphibia,3,1,7,0.5627,0.8989,0.3361
+25214,Muller's Termite Frog,Amphibia,3,1,7,0.9584,0.9482,-0.0102
+sptnig1,Spot-tailed Nightjar,Aves,3,1,7,0.7084,0.9215,0.2131
+23176,Cope's Swamp Froglet,Amphibia,4,1,6,0.9571,0.8458,-0.1113
+23154,Bahia Dwarf Frog,Amphibia,5,1,5,0.9996,0.9452,-0.0544
+66971,Paraguayan Swimming Frog,Amphibia,5,1,5,0.5003,0.9851,0.4848
+738183,White-coated Titi,Mammalia,5,1,5,0.9968,0.9539,-0.0429
+1595929,Uruguay Harlequin Frog,Amphibia,5,1,5,0.4868,0.9345,0.4477
+22985,Peter's Jungle Frog,Amphibia,6,1,4,0.8992,0.4946,-0.4046
+22961,Pointedbelly Frog,Amphibia,6,1,4,0.8912,0.9879,0.0967
+67252,Milk Frog,Amphibia,6,1,4,0.993,0.9632,-0.0298
+22930,Basin White-lipped Frog,Amphibia,6,1,4,0.9292,0.9923,0.0631
+760266,Prionacris erosa,Insecta,7,1,3,0.9998,0.9687,-0.0311
+22967,Marbled White-lipped Frog,Amphibia,8,2,2,0.999,0.9991,0.0001
+555145,Polka-dot Tree Frog,Amphibia,9,2,1,0.9216,0.9157,-0.0059

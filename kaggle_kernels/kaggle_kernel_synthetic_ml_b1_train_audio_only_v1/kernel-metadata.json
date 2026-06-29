@@ -1,0 +1,36 @@
+{
+  "id": "necmikural/compx525-a2-synthetic-ml-b1-train-audio-only-v1",
+  "title": "COMPX525 A2 Synthetic ML B1 Train Audio Only V1",
+  "code_file": "synthetic_birdnet_ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "competition_sources": [
+    "birdclef-2026"
+  ],
+  "kernel_sources": [
+    "necmikural/compx525-a2-birdnet-chunk-00",
+    "necmikural/compx525-a2-birdnet-chunk-01",
+    "necmikural/compx525-a2-birdnet-chunk-02-r1",
+    "necmikural/compx525-a2-birdnet-chunk-03",
+    "necmikural/compx525-a2-birdnet-chunk-04-r1",
+    "necmikural/compx525-a2-birdnet-chunk-05",
+    "necmikural/compx525-a2-birdnet-chunk-06",
+    "necmikural/compx525-a2-birdnet-chunk-07",
+    "necmikural/compx525-a2-birdnet-chunk-08",
+    "necmikural/compx525-a2-birdnet-chunk-09",
+    "necmikural/compx525-a2-birdnet-chunk-10",
+    "necmikural/compx525-a2-birdnet-chunk-11",
+    "necmikural/compx525-a2-birdnet-chunk-12",
+    "necmikural/compx525-a2-birdnet-chunk-13",
+    "necmikural/compx525-a2-birdnet-chunk-14",
+    "necmikural/compx525-a2-birdnet-chunk-15",
+    "necmikural/compx525-a2-synthetic-birdnet-v1"
+  ],
+  "model_sources": []
+}

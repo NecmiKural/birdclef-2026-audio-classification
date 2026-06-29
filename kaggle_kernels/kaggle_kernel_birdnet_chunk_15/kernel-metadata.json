@@ -1,0 +1,18 @@
+{
+  "id": "necmikural/compx525-a2-birdnet-chunk-15",
+  "title": "COMPX525 A2 BirdNET Chunk 15",
+  "code_file": "compx525_a2_birdclef_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "competition_sources": [
+    "birdclef-2026"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

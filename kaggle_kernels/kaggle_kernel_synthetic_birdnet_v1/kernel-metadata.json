@@ -1,0 +1,22 @@
+{
+  "id": "necmikural/compx525-a2-synthetic-birdnet-v1",
+  "title": "COMPX525 A2 Synthetic BirdNET V1",
+  "code_file": "synthetic_birdnet_features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "necmikural/compx525-a2-synthetic-gen-00",
+    "necmikural/compx525-a2-synthetic-gen-01",
+    "necmikural/compx525-a2-synthetic-gen-02",
+    "necmikural/compx525-a2-synthetic-gen-03",
+    "necmikural/compx525-a2-synthetic-gen-04"
+  ],
+  "model_sources": []
+}

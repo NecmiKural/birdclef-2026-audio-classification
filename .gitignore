@@ -1,0 +1,26 @@
+# Competition data — governed by Kaggle rules, do NOT commit
+*.ogg
+*.wav
+*.npz
+train.csv
+taxonomy.csv
+sample_submission.csv
+train_soundscapes_labels.csv
+kaggle_outputs/
+
+# Models / weights
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

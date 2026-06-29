@@ -1,0 +1,24 @@
+{
+  "id": "necmikural/compx525-a2-b2-ta-v1",
+  "title": "COMPX525 A2 B2 TA V1",
+  "code_file": "compx525_a2_birdclef_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "competition_sources": [
+    "birdclef-2026"
+  ],
+  "kernel_sources": [
+    "necmikural/compx525-a2-synthetic-gen-00",
+    "necmikural/compx525-a2-synthetic-gen-01",
+    "necmikural/compx525-a2-synthetic-gen-02",
+    "necmikural/compx525-a2-synthetic-gen-03",
+    "necmikural/compx525-a2-synthetic-gen-04"
+  ],
+  "model_sources": []
+}
