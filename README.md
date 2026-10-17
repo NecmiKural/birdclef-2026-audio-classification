@@ -1,8 +1,8 @@
-# BirdCLEF 2026 — Audio Species Classification
+# BirdCLEF 2026: Audio Species Classification
 
 Multi-class acoustic species identification on the [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026) dataset (birds, amphibians, mammals, reptiles, and insects recorded in the Brazilian Pantanal). Built as a university deep-learning assignment (COMPX525).
 
-**Research question:** *Can AudioLDM2 synthetic text-to-audio enrichment of rare classes improve classification?* The answer turns out to depend on the model family — and the result is the interesting part.
+**Research question:** *Can AudioLDM2 synthetic text-to-audio enrichment of rare classes improve classification?* The answer turns out to depend on the model family, and that split is the interesting part.
 
 > **Note on data:** The competition audio and metadata are governed by Kaggle's competition rules and are **not** redistributed here. This repo contains code, the report, figures, and per-class result tables. Download the data from the competition page to run anything.
 
@@ -21,7 +21,7 @@ Synthetic enrichment **helps** the embedding pipeline (it gains on 24 rare-class
 
 Two model families, each run on original data (A) and synthetic-enriched data (B), per the assignment's 2×2 design:
 
-- **BirdNET embeddings → classical ML.** Audio is chunked and passed through BirdNET to extract clip-level embeddings (extraction was parallelised across 16 Kaggle kernels to stay inside GPU limits — see `kaggle_kernels/`), then a classifier is trained on the embeddings.
+- **BirdNET embeddings → classical ML.** Audio is chunked and passed through BirdNET to extract clip-level embeddings (extraction was parallelised across 16 Kaggle kernels to stay inside GPU limits; see `kaggle_kernels/`), then a classifier is trained on the embeddings.
 - **CompactAudioCNN from scratch.** A small CNN trained directly on mel-spectrograms.
 - **Synthetic enrichment (B).** AudioLDM2 generates synthetic clips for rare classes, with BirdNET used to filter low-quality generations.
 
