@@ -6,6 +6,8 @@ Multi-class acoustic species identification on the [BirdCLEF+ 2026](https://www.
 
 > **Note on data:** The competition audio and metadata are governed by Kaggle's competition rules and are **not** redistributed here. This repo contains code, the report, figures, and per-class result tables. Download the data from the competition page to run anything.
 
+A short summary that anyone can rerun on Kaggle, with one rare-class spectrogram and the rare-class results charted: [BirdCLEF 2026 synthetic enrichment summary](https://www.kaggle.com/code/necmikural/birdclef-2026-synthetic-enrichment-summary) (source in `kaggle_kernels/summary/`).
+
 ## Headline result
 
 Validation results on one fixed 80/20 split of `train_audio` with one seed, scored with the Kaggle skip-empty **macro ROC-AUC**. These are not Kaggle leaderboard scores, and the soundscapes were not used in the reportable experiments.
